@@ -1,7 +1,7 @@
 # U3.W8-9: Reverse Words
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself].
 
 # 2. Pseudocode
 
@@ -9,7 +9,10 @@
 
 # 3. Initial Solution
 
-
+def reverse_words (words)
+	words = ""
+		""			
+end
 
 
 # 4. Refactored Solution
